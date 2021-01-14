@@ -1,7 +1,4 @@
 # Guides
-Links to readings, assignments, and Slack channel for this class
-
-# Guides
 
 You need to be invited to this organization for the **Spring 2021 CAT327 - _Game Programming Studio_** class.
 
