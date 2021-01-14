@@ -2,7 +2,7 @@
 
 You need to be invited to this organization for the **Spring 2021 CAT327 - _Game Programming Studio_** class.
 
-All required reading will be posted in the [Reading](https://github.com/Bloomfield-SP21-CAT327/Reading) repo.
+All required reading will be posted in the [Readings](https://github.com/Bloomfield-SP21-CAT327/Readings) repo.
 
 All assignments instructions are posted in [Assignments](https://github.com/Bloomfield-SP21-CAT327/Assignments) repo.
 
